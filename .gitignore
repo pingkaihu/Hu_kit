@@ -1,0 +1,11 @@
+.idea/*
+
+# Ignore certain .py files
+main.py
+
+# Image files
+*.gif
+*.jpg
+*.jpeg
+*.png
+*.tiff
